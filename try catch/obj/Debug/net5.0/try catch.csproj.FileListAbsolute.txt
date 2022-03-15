@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\try catch\bin\Debug\net5.0\try catch.exe
+C:\Users\yahharo\Desktop\patika\try catch\bin\Debug\net5.0\try catch.deps.json
+C:\Users\yahharo\Desktop\patika\try catch\bin\Debug\net5.0\try catch.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\try catch\bin\Debug\net5.0\try catch.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\try catch\bin\Debug\net5.0\try catch.dll
+C:\Users\yahharo\Desktop\patika\try catch\bin\Debug\net5.0\ref\try catch.dll
+C:\Users\yahharo\Desktop\patika\try catch\bin\Debug\net5.0\try catch.pdb
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\try catch.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\try catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\try catch.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\try catch.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\try catch.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\try catch.dll
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\ref\try catch.dll
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\try catch.pdb
+C:\Users\yahharo\Desktop\patika\try catch\obj\Debug\net5.0\try catch.genruntimeconfig.cache
