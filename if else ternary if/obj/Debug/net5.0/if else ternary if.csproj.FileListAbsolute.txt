@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\if else ternary if\bin\Debug\net5.0\if else ternary if.exe
+C:\Users\yahharo\Desktop\patika\if else ternary if\bin\Debug\net5.0\if else ternary if.deps.json
+C:\Users\yahharo\Desktop\patika\if else ternary if\bin\Debug\net5.0\if else ternary if.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\if else ternary if\bin\Debug\net5.0\if else ternary if.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\if else ternary if\bin\Debug\net5.0\if else ternary if.dll
+C:\Users\yahharo\Desktop\patika\if else ternary if\bin\Debug\net5.0\ref\if else ternary if.dll
+C:\Users\yahharo\Desktop\patika\if else ternary if\bin\Debug\net5.0\if else ternary if.pdb
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\if else ternary if.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\if else ternary if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\if else ternary if.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\if else ternary if.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\if else ternary if.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\if else ternary if.dll
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\ref\if else ternary if.dll
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\if else ternary if.pdb
+C:\Users\yahharo\Desktop\patika\if else ternary if\obj\Debug\net5.0\if else ternary if.genruntimeconfig.cache
