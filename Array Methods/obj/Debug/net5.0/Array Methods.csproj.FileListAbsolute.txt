@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Array Methods\bin\Debug\net5.0\Array Methods.exe
+C:\Users\yahharo\Desktop\patika\Array Methods\bin\Debug\net5.0\Array Methods.deps.json
+C:\Users\yahharo\Desktop\patika\Array Methods\bin\Debug\net5.0\Array Methods.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Array Methods\bin\Debug\net5.0\Array Methods.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Array Methods\bin\Debug\net5.0\Array Methods.dll
+C:\Users\yahharo\Desktop\patika\Array Methods\bin\Debug\net5.0\ref\Array Methods.dll
+C:\Users\yahharo\Desktop\patika\Array Methods\bin\Debug\net5.0\Array Methods.pdb
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\Array Methods.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\Array Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\Array Methods.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\Array Methods.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\Array Methods.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\Array Methods.dll
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\ref\Array Methods.dll
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\Array Methods.pdb
+C:\Users\yahharo\Desktop\patika\Array Methods\obj\Debug\net5.0\Array Methods.genruntimeconfig.cache
