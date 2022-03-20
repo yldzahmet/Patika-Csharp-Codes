@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Method Overloading\bin\Debug\net5.0\Method Overloading.exe
+C:\Users\yahharo\Desktop\patika\Method Overloading\bin\Debug\net5.0\Method Overloading.deps.json
+C:\Users\yahharo\Desktop\patika\Method Overloading\bin\Debug\net5.0\Method Overloading.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Method Overloading\bin\Debug\net5.0\Method Overloading.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Method Overloading\bin\Debug\net5.0\Method Overloading.dll
+C:\Users\yahharo\Desktop\patika\Method Overloading\bin\Debug\net5.0\ref\Method Overloading.dll
+C:\Users\yahharo\Desktop\patika\Method Overloading\bin\Debug\net5.0\Method Overloading.pdb
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\Method Overloading.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\Method Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\Method Overloading.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\Method Overloading.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\Method Overloading.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\Method Overloading.dll
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\ref\Method Overloading.dll
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\Method Overloading.pdb
+C:\Users\yahharo\Desktop\patika\Method Overloading\obj\Debug\net5.0\Method Overloading.genruntimeconfig.cache
