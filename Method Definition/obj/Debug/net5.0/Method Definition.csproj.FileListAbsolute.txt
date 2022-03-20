@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Method Definition\bin\Debug\net5.0\Method Definition.exe
+C:\Users\yahharo\Desktop\patika\Method Definition\bin\Debug\net5.0\Method Definition.deps.json
+C:\Users\yahharo\Desktop\patika\Method Definition\bin\Debug\net5.0\Method Definition.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Method Definition\bin\Debug\net5.0\Method Definition.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Method Definition\bin\Debug\net5.0\Method Definition.dll
+C:\Users\yahharo\Desktop\patika\Method Definition\bin\Debug\net5.0\ref\Method Definition.dll
+C:\Users\yahharo\Desktop\patika\Method Definition\bin\Debug\net5.0\Method Definition.pdb
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\Method Definition.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\Method Definition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\Method Definition.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\Method Definition.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\Method Definition.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\Method Definition.dll
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\ref\Method Definition.dll
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\Method Definition.pdb
+C:\Users\yahharo\Desktop\patika\Method Definition\obj\Debug\net5.0\Method Definition.genruntimeconfig.cache
