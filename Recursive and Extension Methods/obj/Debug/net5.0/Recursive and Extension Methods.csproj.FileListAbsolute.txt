@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\bin\Debug\net5.0\Recursive and Extension Methods.exe
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\bin\Debug\net5.0\Recursive and Extension Methods.deps.json
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\bin\Debug\net5.0\Recursive and Extension Methods.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\bin\Debug\net5.0\Recursive and Extension Methods.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\bin\Debug\net5.0\Recursive and Extension Methods.dll
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\bin\Debug\net5.0\ref\Recursive and Extension Methods.dll
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\bin\Debug\net5.0\Recursive and Extension Methods.pdb
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\Recursive and Extension Methods.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\Recursive and Extension Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\Recursive and Extension Methods.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\Recursive and Extension Methods.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\Recursive and Extension Methods.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\Recursive and Extension Methods.dll
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\ref\Recursive and Extension Methods.dll
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\Recursive and Extension Methods.pdb
+C:\Users\yahharo\Desktop\patika\Recursive and Extension Methods\obj\Debug\net5.0\Recursive and Extension Methods.genruntimeconfig.cache
