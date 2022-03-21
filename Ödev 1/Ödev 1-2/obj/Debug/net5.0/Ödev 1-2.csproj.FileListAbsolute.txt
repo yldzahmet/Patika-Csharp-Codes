@@ -1,0 +1,32 @@
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.exe
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.deps.json
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.dll
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\bin\Debug\net5.0\ref\Ödev 1-2.dll
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.pdb
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.dll
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\ref\Ödev 1-2.dll
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.pdb
+C:\Users\yahharo\Desktop\patika\odev1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.genruntimeconfig.cache
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.exe
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.deps.json
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.dll
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\bin\Debug\net5.0\ref\Ödev 1-2.dll
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\bin\Debug\net5.0\Ödev 1-2.pdb
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.dll
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\ref\Ödev 1-2.dll
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.pdb
+C:\Users\yahharo\Desktop\patika\Ödev 1\Ödev 1-2\obj\Debug\net5.0\Ödev 1-2.genruntimeconfig.cache
