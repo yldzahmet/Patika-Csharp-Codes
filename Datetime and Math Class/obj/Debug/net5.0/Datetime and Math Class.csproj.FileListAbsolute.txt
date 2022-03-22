@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\bin\Debug\net5.0\Datetime and Math Class.exe
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\bin\Debug\net5.0\Datetime and Math Class.deps.json
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\bin\Debug\net5.0\Datetime and Math Class.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\bin\Debug\net5.0\Datetime and Math Class.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\bin\Debug\net5.0\Datetime and Math Class.dll
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\bin\Debug\net5.0\ref\Datetime and Math Class.dll
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\bin\Debug\net5.0\Datetime and Math Class.pdb
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\Datetime and Math Class.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\Datetime and Math Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\Datetime and Math Class.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\Datetime and Math Class.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\Datetime and Math Class.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\Datetime and Math Class.dll
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\ref\Datetime and Math Class.dll
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\Datetime and Math Class.pdb
+C:\Users\yahharo\Desktop\patika\Datetime and Math Class\obj\Debug\net5.0\Datetime and Math Class.genruntimeconfig.cache
