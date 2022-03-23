@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\bin\Debug\net5.0\Generic Collections and List.exe
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\bin\Debug\net5.0\Generic Collections and List.deps.json
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\bin\Debug\net5.0\Generic Collections and List.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\bin\Debug\net5.0\Generic Collections and List.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\bin\Debug\net5.0\Generic Collections and List.dll
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\bin\Debug\net5.0\ref\Generic Collections and List.dll
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\bin\Debug\net5.0\Generic Collections and List.pdb
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\Generic Collections and List.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\Generic Collections and List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\Generic Collections and List.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\Generic Collections and List.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\Generic Collections and List.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\Generic Collections and List.dll
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\ref\Generic Collections and List.dll
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\Generic Collections and List.pdb
+C:\Users\yahharo\Desktop\patika\Generic Collections and List\obj\Debug\net5.0\Generic Collections and List.genruntimeconfig.cache
