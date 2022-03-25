@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Static Class and Members\bin\Debug\net5.0\Static Class and Members.exe
+C:\Users\yahharo\Desktop\patika\Static Class and Members\bin\Debug\net5.0\Static Class and Members.deps.json
+C:\Users\yahharo\Desktop\patika\Static Class and Members\bin\Debug\net5.0\Static Class and Members.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Static Class and Members\bin\Debug\net5.0\Static Class and Members.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Static Class and Members\bin\Debug\net5.0\Static Class and Members.dll
+C:\Users\yahharo\Desktop\patika\Static Class and Members\bin\Debug\net5.0\ref\Static Class and Members.dll
+C:\Users\yahharo\Desktop\patika\Static Class and Members\bin\Debug\net5.0\Static Class and Members.pdb
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\Static Class and Members.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\Static Class and Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\Static Class and Members.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\Static Class and Members.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\Static Class and Members.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\Static Class and Members.dll
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\ref\Static Class and Members.dll
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\Static Class and Members.pdb
+C:\Users\yahharo\Desktop\patika\Static Class and Members\obj\Debug\net5.0\Static Class and Members.genruntimeconfig.cache
