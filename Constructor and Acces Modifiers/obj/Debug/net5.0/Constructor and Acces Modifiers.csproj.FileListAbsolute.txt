@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\bin\Debug\net5.0\Constructor and Acces Modifiers.exe
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\bin\Debug\net5.0\Constructor and Acces Modifiers.deps.json
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\bin\Debug\net5.0\Constructor and Acces Modifiers.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\bin\Debug\net5.0\Constructor and Acces Modifiers.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\bin\Debug\net5.0\Constructor and Acces Modifiers.dll
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\bin\Debug\net5.0\ref\Constructor and Acces Modifiers.dll
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\bin\Debug\net5.0\Constructor and Acces Modifiers.pdb
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\Constructor and Acces Modifiers.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\Constructor and Acces Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\Constructor and Acces Modifiers.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\Constructor and Acces Modifiers.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\Constructor and Acces Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\Constructor and Acces Modifiers.dll
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\ref\Constructor and Acces Modifiers.dll
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\Constructor and Acces Modifiers.pdb
+C:\Users\yahharo\Desktop\patika\Constructor and Acces Modifiers\obj\Debug\net5.0\Constructor and Acces Modifiers.genruntimeconfig.cache
