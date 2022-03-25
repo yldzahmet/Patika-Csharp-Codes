@@ -1,0 +1,16 @@
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.exe
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.deps.json
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.runtimeconfig.json
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.runtimeconfig.dev.json
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.dll
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\bin\Debug\net5.0\ref\Encapsulation and Property.dll
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\bin\Debug\net5.0\Encapsulation and Property.pdb
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.csproj.AssemblyReference.cache
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.AssemblyInfoInputs.cache
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.AssemblyInfo.cs
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.csproj.CoreCompileInputs.cache
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.dll
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\ref\Encapsulation and Property.dll
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.pdb
+C:\Users\yahharo\Desktop\patika\Encapsulation and Property\obj\Debug\net5.0\Encapsulation and Property.genruntimeconfig.cache
